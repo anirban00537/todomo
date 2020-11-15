@@ -1,0 +1,24 @@
+.mainScreen {
+  flex: 0.8;
+  background-color: #303952;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.main__header {
+  display: flex;
+  color: white;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 16px;
+  margin-top: 28px;
+  margin-left: 20px;
+}
+.todo_list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

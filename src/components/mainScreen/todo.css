@@ -1,0 +1,18 @@
+.todo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #574b90;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}
+
+.delete {
+  margin-left: 10px;
+}
+
+.delete__Button {
+  color: rgb(241, 95, 95);
+}

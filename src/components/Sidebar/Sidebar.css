@@ -1,0 +1,25 @@
+.sidebar {
+  background-color: #574b90;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  flex: 0.2;
+  align-items: center;
+}
+.addTodo_button {
+  display: flex;
+  height: 40px;
+  width: 90%;
+  background-color: #6756b8;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  cursor: pointer;
+  color: white;
+}
+.input {
+  height: 50px;
+  margin-top: 70px;
+  width: 90%;
+  outline: none;
+}

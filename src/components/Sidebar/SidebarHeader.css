@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  align-items: center;
+  margin-top: 24px;
+  justify-content: flex-start;
+  width: 100%;
+}
+.dp__header {
+  margin: 10px;
+}
+
+.info__header {
+  margin: 10px;
+}
+.info__header > h4 {
+  color: white;
+}
+
+.info__header > p {
+  color: rgb(209, 206, 206);
+}
